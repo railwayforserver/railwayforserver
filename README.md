@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**railwayforserver/railwayforserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Railway For Server
 
-Here are some ideas to get you started:
+```yaml
+# railwayforserver@github
+# --------------------------------------------------
+Owner: TemurMalik Abdullayev
+Main.GitHub: github.com/AbdullayevTemurmalik
+Location: Namangan, Uzbekistan
+Kernel: Backend Developer | AI Engineer
+Purpose: Backend Development | Railway Deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend.Languages: JavaScript, TypeScript, Python
+Backend.Frameworks: Node.js, Express.js
+Databases: PostgreSQL, MongoDB
+DevOps: Railway, Docker, Git
+
+Featured Projects:
+  Fitness.AI_Bot: "@donikcoach_bot"
+  Watch.Store: alharameenuz.uz
+  Learning.Platform: runcode-web.vercel.app
+
+Collaboration:
+  Main.Developer: "@AbdullayevTemurmalik"
+  Backend.Account: "@railwayforserver"
+
+Contact.Telegram: "@TM_Backdev"
+Contact.Portfolio: temurmalikdev.vercel.app
+Contact.Email: tmaq77@gmail.com
+```
